@@ -1,0 +1,171 @@
+{
+ "cells": [
+  {
+   "cell_type": "markdown",
+   "id": "de303798-fc34-4699-8130-59d0df211f90",
+   "metadata": {
+    "tags": []
+   },
+   "source": [
+    "# Data Science Tools and Ecosystem"
+   ]
+  },
+  {
+   "cell_type": "markdown",
+   "id": "13e0f95f-2230-4f61-9575-031b4cf7ede2",
+   "metadata": {
+    "jp-MarkdownHeadingCollapsed": true,
+    "tags": []
+   },
+   "source": [
+    "## In this notebook, Data Science Tools and Ecosystem are summarized."
+   ]
+  },
+  {
+   "cell_type": "markdown",
+   "id": "b009a87d-9a60-40db-a801-a3f22c2135b8",
+   "metadata": {},
+   "source": [
+    "## **Objectives:**\n",
+    "- List popular languages for Data Science \n",
+    "- List popular libraries for Data Science \n",
+    "- Create a table for Data Science Tools \n",
+    "- Evaluate Aritmetic Expressions in Python"
+   ]
+  },
+  {
+   "cell_type": "markdown",
+   "id": "53cec7dd-2fee-4082-93ce-8e0a30fd9ba2",
+   "metadata": {
+    "tags": []
+   },
+   "source": [
+    "## Some of the popular languages that Data Scientists use are:\n",
+    "1. Python \n",
+    "1. Julia \n",
+    "1. R \n",
+    "1. Java \n",
+    "1. Scala "
+   ]
+  },
+  {
+   "cell_type": "markdown",
+   "id": "4d95ebd7-f6ab-4cd5-b784-b32fa6b33bda",
+   "metadata": {},
+   "source": [
+    "## Some of the commonly used libraries used by Data Scientists include:\n",
+    "1. Pandas\n",
+    "1. Keras\n",
+    "1. Tensorflow\n",
+    "1. Matplotlib "
+   ]
+  },
+  {
+   "cell_type": "markdown",
+   "id": "3c7ec6c7-5731-4b06-85cc-2224654c1c5d",
+   "metadata": {},
+   "source": [
+    "|Data Science Tools|\n",
+    "|---------|\n",
+    "|Hadoop|\n",
+    "|Spark|\n",
+    "|KNIME|\n",
+    "|Neo4j|"
+   ]
+  },
+  {
+   "cell_type": "markdown",
+   "id": "070bd870-f907-4030-8227-3fdeac171882",
+   "metadata": {},
+   "source": [
+    "### Below are a few examples of evaluating arithmetic expressions in Python"
+   ]
+  },
+  {
+   "cell_type": "code",
+   "execution_count": 17,
+   "id": "492dea31-fc35-4d91-9d16-033f69553cab",
+   "metadata": {
+    "tags": []
+   },
+   "outputs": [
+    {
+     "data": {
+      "text/plain": [
+       "17"
+      ]
+     },
+     "execution_count": 17,
+     "metadata": {},
+     "output_type": "execute_result"
+    }
+   ],
+   "source": [
+    "# This a simple arithmetic expression to mutiply then add integers\n",
+    "(3*4)+5"
+   ]
+  },
+  {
+   "cell_type": "code",
+   "execution_count": 18,
+   "id": "343364d8-f6f7-4c3a-8b6a-1b2c3132f885",
+   "metadata": {
+    "tags": []
+   },
+   "outputs": [
+    {
+     "data": {
+      "text/plain": [
+       "3.3333333333333335"
+      ]
+     },
+     "execution_count": 18,
+     "metadata": {},
+     "output_type": "execute_result"
+    }
+   ],
+   "source": [
+    "# This will convert 200 minutes to hours by diving by 60\n",
+    "200/60"
+   ]
+  },
+  {
+   "cell_type": "markdown",
+   "id": "a7698ca3-cd33-4428-a87c-48e1b25024cd",
+   "metadata": {},
+   "source": [
+    "## Author \n",
+    "Tyler Bruner"
+   ]
+  },
+  {
+   "cell_type": "code",
+   "execution_count": null,
+   "id": "b04a150d-3b5c-4f0e-84b2-35d4783b77d1",
+   "metadata": {},
+   "outputs": [],
+   "source": []
+  }
+ ],
+ "metadata": {
+  "kernelspec": {
+   "display_name": "Python",
+   "language": "python",
+   "name": "conda-env-python-py"
+  },
+  "language_info": {
+   "codemirror_mode": {
+    "name": "ipython",
+    "version": 3
+   },
+   "file_extension": ".py",
+   "mimetype": "text/x-python",
+   "name": "python",
+   "nbconvert_exporter": "python",
+   "pygments_lexer": "ipython3",
+   "version": "3.7.12"
+  }
+ },
+ "nbformat": 4,
+ "nbformat_minor": 5
+}
